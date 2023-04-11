@@ -30,7 +30,7 @@ export default function Main() {
                 <h3>About</h3>
                 <p>Aatiq is a passionate tech enthusiast who likes to build applications and solve complex problems. His passion includes mentoring and exploring new places.</p>
                 <h3>Interests</h3>
-                <p>Deva ki mze lena jb vo mile samne</p>
+                <p>Coding and travelling</p>
             </div>
 
         </div>
